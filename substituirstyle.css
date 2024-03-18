@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Whisper", cursive;
+     text-align: center;
+     p {
+        font-size: 30px; /* Tamanho da fonte em pixels */
+    }
+    
+}
+
+.card button{
+     
+        font-size: 20px; /* Tamanho da fonte do botão */
+    
+     
+        margin-right: 20px; /* Espaçamento à direita entre os botões */
+    
+     
+        border-radius: 8px; /* Raio dos cantos arredondados */
+    
+    
+        transition-duration: 0.4s; /* Velocidade da transição */
+        background-color: #d4afcf; /* Cor de fundo quando o mouse passa sobre o botão */
+        color: white; /* Cor do texto quando o mouse passa sobre o botão */
+}
+
+
+
+
+
+
+    
+
+
